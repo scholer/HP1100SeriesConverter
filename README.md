@@ -1,3 +1,11 @@
+
+Note: This fork was created to convert the project from a "pyinstaller app only" package 
+to a proper distribution package that you can install with `pip` and use from python
+in your normal data analysis workflows.
+
+All credit for the original code goes to @TheTrueTom (github.com/TheTrueTom).
+
+
 #HP 1100 Series Data Converter [![GitHub license](https://img.shields.io/dub/l/vibe-d.svg)](https://raw.githubusercontent.com/TheTrueTom/HP1100SeriesConverter/master/LICENCE) [![GitHub release](https://img.shields.io/github/release/TheTrueTom/HP1100SeriesConverter.svg)](https://github.com/TheTrueTom/HP1100SeriesConverter/releases/latest)
 
 ### Building Instructions for Windows

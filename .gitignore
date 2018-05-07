@@ -29,6 +29,13 @@ local.properties
 .buildpath
 
 
+###########################
+# PyCharm / IntelliJ IDEs:
+###########################
+
+.idea/
+
+
 #################
 ## Visual Studio
 #################
@@ -214,3 +221,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
